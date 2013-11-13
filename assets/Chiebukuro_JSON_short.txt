@@ -1,0 +1,89 @@
+{
+	"subjects":[
+		{
+			"subjectName" : "短いやつ",
+			"menuArray" : [
+				{
+					"menuTitle" : "ゲーム",
+					"menuUrl" : "http://geenext.net/short-game/"
+				},
+				{
+					"menuTitle" : "ショッピング",
+					"menuUrl" : "http://geenext.net/short-shopping/"
+				},
+				{
+					"menuTitle" : "テレビ",
+					"menuUrl" : "http://geenext.net/short-tv/"
+				},
+				{
+					"menuTitle" : "ニュース",
+					"menuUrl" : "http://geenext.net/short-news/"
+				},
+				{
+					"menuTitle" : "中学校",
+					"menuUrl" : "http://geenext.net/short-juniorhighschool/"
+				},
+				{
+					"menuTitle" : "仕事",
+					"menuUrl" : "http://geenext.net/short-work/"
+				},
+				{
+					"menuTitle" : "友達",
+					"menuUrl" : "http://geenext.net/short-friend/"
+				},
+				{
+					"menuTitle" : "取引先とのトラブル",
+					"menuUrl" : "http://geenext.net/short-trouble/"
+				},
+				{
+					"menuTitle" : "家族",
+					"menuUrl" : "http://geenext.net/short-family/"
+				},
+				{
+					"menuTitle" : "恋愛/人間関係",
+					"menuUrl" : "http://geenext.net/short-ningen/"
+				},
+				{
+					"menuTitle" : "携帯",
+					"menuUrl" : "http://geenext.net/short-keitai/"
+				},
+				{
+					"menuTitle" : "暮らしと生活",
+					"menuUrl" : "http://geenext.net/short-life/"
+				},
+				{
+					"menuTitle" : "法律",
+					"menuUrl" : "http://geenext.net/short-law/"
+				},
+				{
+					"menuTitle" : "海外生活",
+					"menuUrl" : "http://geenext.net/short-abroad/"
+				},
+				{
+					"menuTitle" : "短いやつ",
+					"menuUrl" : "http://geenext.net/other-short/"
+				},
+				{
+					"menuTitle" : "職場",
+					"menuUrl" : "http://geenext.net/short-office/"
+				},
+				{
+					"menuTitle" : "芸能人",
+					"menuUrl" : "http://geenext.net/short-geinoujin/"
+				},
+				{
+					"menuTitle" : "超常現象",
+					"menuUrl" : "http://geenext.net/short-chojyogensyo/"
+				},
+				{
+					"menuTitle" : "超短いやつ",
+					"menuUrl" : "http://geenext.net/short-supershort/"
+				},
+				{
+					"menuTitle" : "高校",
+					"menuUrl" : "http://geenext.net/short-highschool/"
+				}
+			]
+		}
+	]
+}
